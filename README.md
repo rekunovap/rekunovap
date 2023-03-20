@@ -4,10 +4,10 @@
 С начала 2022 года я начала углубляться в изучение интсрументов для обработки данных: Python, SQL, BI, изучила основы математической статистики и теорвера.
 
 - 📫 Контакты:
-https://t.me/RekunovaP
-rekunova.polinka@yandex.ru
-https://hh.ru/applicant/resumes/view?resume=6c2b5e95ff09cee7e40039ed1f453341424a41
-https://www.linkedin.com/in/polina-rekunova-ab7084233/
+- https://t.me/RekunovaP
+- rekunova.polinka@yandex.ru
+- https://hh.ru/applicant/resumes/view?resume=6c2b5e95ff09cee7e40039ed1f453341424a41
+- https://www.linkedin.com/in/polina-rekunova-ab7084233/
 
 <!--
 **rekunovap/rekunovap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
